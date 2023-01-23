@@ -8,6 +8,15 @@
       "recommended": true,
       "modtype": 2,
       "url": "https://github.com/radsialt/plutonium-t6-mods-db/raw/main/adaptedFiles/City%20Of%20Mars%20V2%20-%20The%20Final%20Awakening%20Update.zip"
+    },
+    {
+      "thumbnail": "https://getwallpapers.com/wallpaper/full/8/e/0/953618-coca-cola-wallpapers-1920x1080-1080p.jpg",
+      "name": "Juggernog Coca Cola Skin",
+      "description": "Juggernog coca cola skin",
+      "contributors": "Radsi",
+      "recommended": false,
+      "modtype": 0,
+      "url": "https://github.com/radsialt/plutonium-t6-mods-db/raw/main/adaptedFiles/JuggCocaCola.rar"
     }
   ]
 }
