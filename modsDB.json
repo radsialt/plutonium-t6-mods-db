@@ -1,7 +1,7 @@
 {
   "cards": [
     {
-      "thumbnail": "none",
+      "thumbnail": "https://github.com/radsialt/plutonium-t6-mods-db/raw/main/images/CityOfMarsV2.png",
       "name": "City Of Mars V2",
       "description": "Custom map for BO2\nzombies that moves\nnuketown to mars",
       "contributors": "Ultimateman, Thenwhen, ZECxR3ap3r, GeradS0406",
