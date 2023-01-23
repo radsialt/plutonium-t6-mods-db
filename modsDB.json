@@ -6,6 +6,7 @@
       "description": "Custom map for BO2 zombies that\nmoves nuketown to mars",
       "contributors": "Ultimateman, Thenwhen,\nZECxR3ap3r, GeradS0406",
       "recommended": true,
+      "game": "t6",
       "modtype": 2,
       "url": "https://github.com/radsialt/plutonium-t6-mods-db/raw/main/adaptedFiles/City%20Of%20Mars%20V2%20-%20The%20Final%20Awakening%20Update.zip"
     },
@@ -15,6 +16,7 @@
       "description": "Juggernog coca cola skin",
       "contributors": "Radsi",
       "recommended": false,
+      "game": "t6",
       "modtype": 0,
       "url": "https://github.com/radsialt/plutonium-t6-mods-db/raw/main/adaptedFiles/JuggCocaCola.zip"
     }
