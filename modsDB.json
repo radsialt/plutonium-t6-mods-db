@@ -7,6 +7,7 @@
       "contributors": "Ultimateman, Thenwhen,\nZECxR3ap3r, GeradS0406",
       "recommended": true,
       "game": "t6",
+      "gamemode": "zombie",
       "modtype": 2,
       "url": "https://github.com/radsialt/plutonium-t6-mods-db/raw/main/adaptedFiles/City%20Of%20Mars%20V2%20-%20The%20Final%20Awakening%20Update.zip"
     },
@@ -17,6 +18,7 @@
       "contributors": "Radsi",
       "recommended": false,
       "game": "t6",
+      "gamemode": "zombie",
       "modtype": 0,
       "url": "https://github.com/radsialt/plutonium-t6-mods-db/raw/main/adaptedFiles/JuggCocaCola.zip"
     },
@@ -27,6 +29,7 @@
       "contributors": "Radsi",
       "recommended": false,
       "game": "t6",
+      "gamemode": "zombie",
       "modtype": 0,
       "url": "https://github.com/radsi/t6-coords-script/releases/download/1.0/pos-compiled.gsc"
     }
