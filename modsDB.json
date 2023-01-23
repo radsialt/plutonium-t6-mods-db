@@ -25,7 +25,7 @@
     {
       "thumbnail": "none",
       "name": "Position coordinates",
-      "description": "A simple script that shows coordinates in the bottom of the screen",
+      "description": "A simple script that shows\ncoordinates in the bottom of the screen",
       "contributors": "Radsi",
       "recommended": false,
       "game": "t6",
